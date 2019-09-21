@@ -1,0 +1,9 @@
+"<html>\n" +
+                "<head> <title>OutPut<title> <head>\n" +
+                "<body>\n" +
+                "Nice Try Bitch\n" +
+                "Result is : " + k +"\n" +
+                "Content length = \n"+
+                result + "\n" +
+                "</body>\n" +
+                "<html>"
